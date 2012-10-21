@@ -7,6 +7,7 @@ if(!defined('sugarEntry') || !sugarEntry) die('Not A Valid Entry Point');
 /**
  * XML Generation for SugarCRM 5.5 Charts
  * As per conventions all comments are stripped ......
+ * @author Jeremy Hutchings <email@jeremyhutchings.com>
  */
 class XMLGraph
 {
